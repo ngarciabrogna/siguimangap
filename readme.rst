@@ -7,24 +7,6 @@ que se realizan dentro del parque recreativos de manera eficiente, organizando t
 toman responsabilidad sobre estas actividades.
 
 
-***********************************
-Informacion relacionada
-***********************************
-
-Proyecto de tesis IRESM - 2020 
-______________________________
-Romero
-Ianotti
-Benedetto
-Garcia
-
-**********
-Changelog
-**********
-
-En esta ultima version se realizo un login funcional
-y un crud que permite gestionar los usuarios del sistema.
-
 ****************************
 APP DESAROLLADA BAJO MVC
 ****************************
